@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @yalhal
-- I am a master student at the University of Tokyo (UT).
+- I am a PhD student at the University of Tokyo (UT).
 - And currently research at the Institute of Space and Astronautical Science (ISAS) in Japan Aerospace Exploration Agency (JAXA).
